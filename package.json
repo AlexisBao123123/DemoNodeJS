@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "list": "^2.0.19",
+    "mysql2": "^3.15.0",
+    "pdfmake": "^0.2.20"
+  }
+}
